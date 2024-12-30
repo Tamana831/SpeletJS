@@ -19,6 +19,7 @@
 }
 
 body{
+  background-image: url("860645.png");
     background-color: var(--background-color);
     font-family: 'Lato', sans-serif;
 }
@@ -295,7 +296,9 @@ section{
   .details{
     width: 100%;
     margin-top: 15px;
+    margin-bottom: 20px;
     padding: 0 20px;
+    text-align: center;
     border-radius: 7px;
     background: #fff;
     height: calc(100% / 4 - 30px);
@@ -368,5 +371,4 @@ section{
       background: #6563ff;
     }
   }
-
 
